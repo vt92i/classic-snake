@@ -1,4 +1,4 @@
-# classic_snake
+# classic-snake
 ![GitHub contributors](https://img.shields.io/github/contributors/vt92i/pygame-projects?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/vt92i/pygame-projects?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/vt92i/pygame-projects?style=for-the-badge)
